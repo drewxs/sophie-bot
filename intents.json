@@ -1,0 +1,67 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["hi", "how are you", "is anyone there?", "helo", "hello", "hey", "good day", "whats up", "how's it going"],
+     "responses": ["hewwo :3", "hihihihi", "henlo :3", "hiii :3", "hiiiiiiii", ""],
+     "context_set": ""
+    },
+    {"tag": "goodbye",
+     "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day","bye"],
+     "responses": ["cyaaa :3", "boiboiboiboiii", "byeee :3"],
+     "context_set": ""
+    },
+    {"tag": "goodjob",
+     "patterns": ["good job", "drew", "gj", "good job drew!", "gj drew", "goodjob"],
+     "responses": ["good job drew! :3", "goodjobdrew!goodjobdrew!", "goodjobdreww!!"],
+     "context_set": ""
+    },
+    {"tag": "swear",
+    "patterns": ["fuck", "shit", "fuck you", "bitch"],
+    "responses": ["fweak", "beetch"],
+    "context_set": ""
+    },
+    {"tag": "richard",
+    "patterns": ["richard", "rich", "jinrhi"],
+    "responses": ["rich ur an ass", "good job rich!", "goodjobrich!goodjobrich!"],
+    "context_set": ""
+    },
+    {"tag": "sus",
+    "patterns": ["sus", "suss", "sussy"],
+    "responses": [":o sus", "susss :3"],
+    "context_set": ""
+    },
+    {"tag": "pog",
+    "patterns": ["pog", "poggers", "pogchamp", "pogg"],
+    "responses": ["pooooog :3", "pogchaaaamp"],
+    "context_set": ""
+    },
+    {"tag": "soph",
+    "patterns": ["soph", "sophie", "sophieee", "$oph", "@$soph", "sophuwu"],
+    "responses": ["yes?", "hihi", "sup :3", "hihihi", ":o"],
+    "context_set": ""
+    },
+    {"tag": "league",
+    "patterns": ["league?", "league", "legos"],
+    "responses": ["i wan preety items :3", "lets fweaking gooooooooooooooooooooooooo"],
+    "context_set": ""
+    },
+    {"tag": "game",
+    "patterns": ["play", "playy", "amogus", "amongus"],
+    "responses": ["lets fweaking gooooooooooooooooooooooooo"],
+    "context_set": ""
+    },
+    {"tag": "uwu",
+    "patterns": ["uwu", "owo", "UWU", "UwU", ":3", ":)", "xD", "XD", ":D"],
+    "responses": ["uwu", "owo", "UWU", "UwU", ":3"],
+    "context_set": ""
+    },
+    {"tag": "food",
+    "patterns": ["food", "chow", "borgar", "burger", "pizza"],
+    "responses": ["foooooood :3", "i hungy"],
+    "context_set": ""
+    },
+    {"tag": "thanks",
+    "patterns": ["thanks", "thank you", "thanku", "ty"],
+    "responses": ["you'we welcome :3", "no pwobwem :3"],
+    "context_set": ""
+    }
+]}
