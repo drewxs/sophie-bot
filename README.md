@@ -27,3 +27,8 @@ Uncomment line #123
 ```sh
 chat();
 ```
+
+Then run:
+```sh
+python main.py
+```
