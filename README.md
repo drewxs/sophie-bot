@@ -15,3 +15,15 @@ To run and host the bot:
 ```sh
 python main.py
 ```
+
+To run the bot locally:
+
+Comment out the last line
+```sh
+client.run(token);
+```
+
+Uncomment line #123
+```sh
+chat();
+```
