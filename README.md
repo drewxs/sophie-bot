@@ -16,15 +16,15 @@ To run and host the bot:
 python main.py
 ```
 
-To run the bot locally:
+## Local Usage
 
 Comment out the last line
-```sh
+```python
 client.run(token);
 ```
 
 Uncomment line #123
-```sh
+```python
 chat();
 ```
 
@@ -32,3 +32,7 @@ Then run:
 ```sh
 python main.py
 ```
+
+## Inviting the bot
+
+[Invite](https://discord.com/api/oauth2/authorize?client_id=853111748415848478&permissions=2150984768&scope=bot)
